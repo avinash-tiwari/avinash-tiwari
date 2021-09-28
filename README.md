@@ -1,4 +1,14 @@
-### Hi there 👋
-#### A full stack developer here
+## Full Stack Developer
+### Grappus | Server to Styling 😜
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/avinash-tiwari-576962120/)
-![Profile](https://github.com/avinash-tiwari/profile-asset/blob/main/profile.svg)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/avinashtiwari.er/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/avinash.tivari.7)
+
+### Tech Stack I use
+* ReactJS
+* NodeJS
+* Django
+* Javascript
+* Typescript
+* Python
