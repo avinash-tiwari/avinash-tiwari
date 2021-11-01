@@ -8,4 +8,4 @@
 ### Tech Stack I use
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Python,react)](https://github.com/avinash-tiwari)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=nodejs,django)](https://github.com/avinash-tiwari)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Javascript,Python,Djanog,Nodejs,Django,Expressjs,Redux)](https://github.com/avinash-tiwari)
