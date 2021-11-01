@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/avinash.tivari.7)
 
 ### Tech Stack I use
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Python,react)](https://github.com/kijepark)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Python,react,nodejs,django)](https://github.com/kijepark)
 * ReactJS
 * NodeJS
 * Django
